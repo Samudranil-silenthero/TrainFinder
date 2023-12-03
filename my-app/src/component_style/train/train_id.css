@@ -1,0 +1,108 @@
+.roww{
+    background-color: aliceblue;
+    border: solid 1px;
+    margin: 20px 10px;
+    padding: 0px;
+}
+.firstrow{
+    display: flex;
+    /* padding-top: 0px; */
+}
+.firstrowl1{
+    flex:2;
+    padding-left: 0px;
+    font-weight: 900;
+    text-align: left;
+    font-size: 30px;
+}
+.firstrowl2{
+    flex:2;
+    padding-left: 0px;
+    padding-top: 2dvh;
+    font-weight: 900;
+    text-align: left;
+    font-size: 25px;
+}
+.firstrowc1{
+    flex:1;
+    padding-left: 0px;
+    border: 1px solid;  
+}
+.firstrowc2{
+    flex:1;
+    padding-left: 0px;
+    border: 1px solid;    
+    padding-top: 2dvh;
+}
+.firstrowr1{
+    flex:2;
+    padding-right: 10px;
+    /* border: 4px solid rebeccapurple; */
+    text-align: right;
+}
+.firstrowr2{
+    flex:2;
+    padding-right: 10px;
+    padding-top: 2dvh;
+    /* border: 4px solid rebeccapurple; */
+    text-align: right;
+    font-weight: 900;
+    font-size: 25px;
+}
+.delbutton{
+    margin-top:20px;
+    margin-left: 10px;
+    background-color: red;
+    width: 140px;
+    height: 50px;
+    cursor: pointer;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.popup_bound{
+    border:1px solid;
+    padding: 40px;
+    background-color: white;
+    overflow: scroll;
+    width: 90%;
+    height: 700px;
+    color: blue;
+}
+.popup_bound_seat_quert{
+    border:1px solid;
+    padding: 40px;
+    background-color: white;
+    /* overflow: scroll; */
+    width: 100%;
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+.paytable{
+    border:1px solid;
+    padding: 20px;
+    margin: 20px;
+}
+th,td{
+    border:1px solid;
+    padding: 10px;
+}
+.all_item{
+    align-self: center;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(147, 201, 248);
+    margin-top: 20PX;
+  }
+  .flex-container-child {
+    background-color: #f1f1f1;
+    padding: 30PX;
+    /* width: 100px; */
+    margin: 10px;
+    text-align: center;
+    /* line-height: 75px; */
+    font-size: 30px;
+  }
