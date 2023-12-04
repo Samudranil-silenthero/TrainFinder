@@ -60,3 +60,5 @@ $ cd api
 $ npm i    
 $ npm start 
 ```
+## Use this extension to get rid of CORS errors: 
+https://chromewebstore.google.com/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc?pli=1
