@@ -6,6 +6,7 @@ Search for trains easily.
   <li>User can view the route of a train. 
   <li>User can view the number of seats available, seat type and the fare. 
   <li>User can view the days during which the train runs, the journey duration and the distance in kilometres. 
+  <li>Auto Suggestion feature of stations name and their station code is available.</li>
   <li>Front end is made using ReactJS and CSS. The backend is made using NodeJS and expressJS.
 </ul>
 
