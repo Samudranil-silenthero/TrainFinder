@@ -1,0 +1,17 @@
+.train_menu{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    padding-bottom: 0px;
+}
+.train_menu_item{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    border-style: none solid none none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.train_menu_item:hover{
+    background-color: rgb(192, 232, 243);
+}
